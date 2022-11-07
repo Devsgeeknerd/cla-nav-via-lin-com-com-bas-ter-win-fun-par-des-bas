@@ -1,0 +1,8 @@
+.vercel
+.env
+nodes_modeles
+*.lock
+.vscode/
+.idea
+coverage
+vercel_token
