@@ -1,9 +1,0 @@
-.vercel
-.env
-nodes_modules
-*.lock
-.vscode/
-.idea
-coverage
-vercel_token
-.husky
